@@ -10,7 +10,8 @@ Epics-base : https://github.com/epics-base/epics-base
 # Install
 
 Inside debs folder, as root:
-`
+
 dpkg -i *.deb
+
 apt-get install -f -y
-`
+
